@@ -10,7 +10,7 @@ function Tarefa(){
             setTarefa('Parabéns! Você concluiu a tarefa!')
 
         }
-    }), [isCompletado]
+    }, [isCompletado])
     return(
         <div>
             <h1>Tarefa</h1>

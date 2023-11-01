@@ -10,7 +10,7 @@ function Card({titulo, descricao}: CardProps){
         <div style={{
             textAlign: "center",
             width: "500px",
-            border: "5px solid crimson",
+            border: "5px solid ",
             margin: "0 0 1rem 0"
         }
 

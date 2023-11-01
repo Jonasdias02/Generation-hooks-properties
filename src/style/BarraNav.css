@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    
+}
+
+.barra-nav-menu{
+    background-color: gray;
+    display: flex;
+    justify-content: space-around;
+    padding: 15px;
+}
+
+.barra-nav-menu-item {
+    color:rgb(99, 0, 192);
+    
+   
+}
